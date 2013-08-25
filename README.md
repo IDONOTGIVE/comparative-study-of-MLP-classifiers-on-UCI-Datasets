@@ -7,7 +7,6 @@ Howto
 -----
 
 1. How to run
-2. 
   - Add Part2_Bagging MLP folder to path.
   - Input ¡°option_task2¡± in the command windows of matlab, then enter
   - Default load is zoo.mat.If you want to load other dataset, just change the load command in the code, and save it. It will work.
